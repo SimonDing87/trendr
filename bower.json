@@ -16,6 +16,8 @@
     "angular": "~1.4.8",
     "angular-route": "~1.4.8",
     "angular-chart.js": "~0.8.8",
-    "spin.js": "spinjs#~2.3.2"
+    "spin.js": "spinjs#~2.3.2",
+    "d3pie": "~0.1.9",
+    "d3": "~3.5.12"
   }
 }
